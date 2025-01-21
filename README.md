@@ -1,6 +1,3 @@
-Here's an example of how you could structure your README file to summarize the first six days of your project:
-
----
 
 # Furniture Marketplace Project
 
